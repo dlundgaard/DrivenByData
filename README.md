@@ -1,7 +1,9 @@
-<center >
-  <source media="(prefers-color-scheme: light)" srcset="./assets/images/drivenbydata_signature_dark.png">
-  <img src="./assets/images/drivenbydata_signature.png" width=250 alt="Driven By Data Logo">
-</center>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/images/drivenbydata_signature_dark.png">
+    <img src="./assets/images/drivenbydata_signature.png" width=250 alt="Driven By Data Logo">
+  <picture>
+</p>
 
 <!-- # Driven By Data 📊 -->
 <!-- ![Demo](./assets/images/drivenbydata.jpg) -->
@@ -17,7 +19,7 @@ Tools for plotting and data analysis on telemetry data logged during Formula 1 G
 ### Engine RPM at Launch
 
 | ![2021 Drivers Launch RPM](./assets/images/2021_Drivers_Launch_RPM.png) | ![2021 Teams Launch RPM](./assets/images/2021_Teams_Launch_RPM.png) |
-|:-:|:-:|
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------: |
 
 ## Bugs and Issues
 
