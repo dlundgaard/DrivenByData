@@ -1,4 +1,7 @@
-<p align="center"><img src="./assets/images/drivenbydata_signature.png" alt="Driven By Data Logo" width=250/></p>
+<center >
+  <source media="(prefers-color-scheme: light)" srcset="./assets/images/drivenbydata_signature_dark.png">
+  <img src="./assets/images/drivenbydata_signature.png" width=250 alt="Driven By Data Logo">
+</center>
 
 <!-- # Driven By Data 📊 -->
 <!-- ![Demo](./assets/images/drivenbydata.jpg) -->
