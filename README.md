@@ -1,12 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/images/drivenbydata_signature_dark.png">
-    <img src="./assets/images/drivenbydata_signature.png" width=250 alt="Driven By Data Logo">
-  <picture>
-</p>
-
-<!-- # Driven By Data 📊 -->
-<!-- ![Demo](./assets/images/drivenbydata.jpg) -->
+![DrivenByData Identity](./assets/images/drivenbydata_identity.png)
 
 Tools for plotting and data analysis on telemetry data logged during Formula 1 Grand Prix weekends since 2018. The data is obtained through [Fast F1](https://github.com/theOehrly/Fast-F1), which builds on the [Ergast Developer API](http://ergast.com/mrd/).
 
